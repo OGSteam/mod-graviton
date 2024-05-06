@@ -3,7 +3,7 @@
 * graviton.php Fichier principal
 * @package MOD Graviton
 * @author Kal Nightmare
-* @link http://www.ogsteam.fr
+* @link https://www.ogsteam.eu
 */
 
 if (!defined('IN_SPYOGAME')) {

@@ -3,7 +3,7 @@
 * Desinstallation du module
 * @package graviton
 * @author Aeris
-* @link http://board.ogsteam.fr
+* @link https://board.ogsteam.eu
  */
 if (!defined('IN_SPYOGAME')) die('Hacking attempt'); 
 

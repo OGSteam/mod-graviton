@@ -4,7 +4,7 @@
 * update.php Fichier de mise à jour du MOD Graviton
 * @package MOD Graviton
 * @author Kal Nightmare
-* @link http://www.ogsteam.fr
+* @link https://www.ogsteam.eu
 */
 
 
